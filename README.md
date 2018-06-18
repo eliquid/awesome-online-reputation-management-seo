@@ -5,7 +5,7 @@ A curated list of amazingly awesome ORM SEO resources.
 
 Top Ranked Online Reputation Management ORM SEO Tools
 ------
-*Tools to help you with Local SEO*
+*Tools to help you with ORM*
 
 * [SERPWoo](https://www.serpwoo.com/ "Online Reputation Management Tracker & Competitive Niche Research") - Online Reputation Management Tracker & Competitive Niche Research
 
@@ -15,7 +15,7 @@ Top Ranked Online Reputation Management ORM SEO Tools
 
 Online Reputation Management ORM Articles & Advice
 ------
-*Information to help you with Local SEO*
+*Information to help you with ORM*
 
 
 
@@ -24,7 +24,7 @@ Online Reputation Management ORM Articles & Advice
 
 Online Reputation Management ORM SEO Link Citations
 ------
-*Places to help you with Local SEO citations*
+*Places to help you with ORM citations*
 
 
 
@@ -32,7 +32,7 @@ Online Reputation Management ORM SEO Link Citations
 
 Online Reputation Management ORM Video Guides
 ------
-*Videos to help you with Local SEO citations*
+*Videos to help you with ORM*
 
 * [SERPWoo](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
 
@@ -40,7 +40,7 @@ Online Reputation Management ORM Video Guides
 
 Online Reputation Management ORM SEO Infographics
 ------
-*Infographics to help you with Local SEO*
+*Infographics to help you with ORM*
 
 * [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic") - Online Reputation Management: The Ultimate Guide Infographic
 
@@ -49,7 +49,7 @@ Online Reputation Management ORM SEO Infographics
 
 Online Reputation Management ORM SEO Services
 ------
-*Consultants and agencies that can help you with Local SEO*
+*Consultants and agencies that can help you with ORM*
 
 
 
