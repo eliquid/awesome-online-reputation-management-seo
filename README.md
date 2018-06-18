@@ -7,6 +7,8 @@ Top Ranked Online Reputation Management ORM SEO Tools
 ------
 *Tools to help you with Local SEO*
 
+* [SERPWoo](https://www.serpwoo.com/ "Online Reputation Management Tracker & Competitive Niche Research") - Online Reputation Management Tracker & Competitive Niche Research
+
 
 
 
@@ -32,12 +34,15 @@ Online Reputation Management ORM Video Guides
 ------
 *Videos to help you with Local SEO citations*
 
+* [SERPWoo](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
 
 
 
 Online Reputation Management ORM SEO Infographics
 ------
 *Infographics to help you with Local SEO*
+
+* [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic" - Online Reputation Management: The Ultimate Guide Infographic
 
 
 
