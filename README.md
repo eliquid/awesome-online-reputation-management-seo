@@ -40,7 +40,7 @@ Online Reputation Management ORM Video Guides
 ------
 *Videos to help you with ORM*
 
-* [SERPWoo](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
+* [Online Reputation Management (ORM) Tracking/Monitoring Tool](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
 
 
 
