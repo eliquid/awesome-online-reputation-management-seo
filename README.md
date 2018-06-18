@@ -49,8 +49,8 @@ Online Reputation Management ORM SEO Infographics
 *Infographics to help you with ORM*
 
 * [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic") - Online Reputation Management: The Ultimate Guide Infographic
-
-
+* [What is Online Reputation Management (ORM)?](http://www.consortemarketing.com/blog/2012/08/online-reputation-management-infographic/ "What is Online Reputation Management (ORM)?") - What is Online Reputation Management (ORM)?
+* [Online Reputation Management ](http://dsim.in/blog/2016/06/21/infographic-what-is-online-reputation-management-orm/ "Online Reputation Management ") - Online Reputation Management 
 
 
 Online Reputation Management ORM SEO Services
