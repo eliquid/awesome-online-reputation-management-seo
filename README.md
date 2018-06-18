@@ -42,7 +42,7 @@ Online Reputation Management ORM SEO Infographics
 ------
 *Infographics to help you with Local SEO*
 
-* [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic" - Online Reputation Management: The Ultimate Guide Infographic
+* [Online Reputation Management: The Ultimate Guide Infographic](https://www.business2community.com/infographics/online-reputation-management-ultimate-guide-infographic-0730418 "Online Reputation Management: The Ultimate Guide Infographic") - Online Reputation Management: The Ultimate Guide Infographic
 
 
 
