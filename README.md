@@ -41,6 +41,8 @@ Online Reputation Management ORM Video Guides
 *Videos to help you with ORM*
 
 * [Online Reputation Management (ORM) Tracking/Monitoring Tool](https://www.youtube.com/watch?v=GwpFWyNf2kc "Online Reputation Management (ORM) Tracking/Monitoring Tool") - Online Reputation Management (ORM) Tracking/Monitoring Tool
+* [Basics Of Online Reputation Management | Simplilearn Webinar](https://www.youtube.com/watch?v=B_BuEBlh3R4 "Basics Of Online Reputation Management | Simplilearn Webinar") - Basics Of Online Reputation Management | Simplilearn Webinar
+* [Online Reputation Management Tutorial, Checklist and Tracking Template](https://www.youtube.com/watch?v=Kbn2PJC4tJg "Online Reputation Management Tutorial, Checklist and Tracking Template") - Online Reputation Management Tutorial, Checklist and Tracking Template
 
 
 
