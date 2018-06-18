@@ -28,10 +28,6 @@ Online Reputation Management ORM Articles & Advice
 
 
 
-Online Reputation Management ORM SEO Link Citations
-------
-*Places to help you with ORM citations*
-
 
 
 
