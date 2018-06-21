@@ -1,5 +1,5 @@
-# Awesome Online Reputation Management ORM SEO
-A curated list of amazingly awesome ORM SEO resources.
+# Awesome Online Reputation Management ORM SEO Strategies
+A curated list of amazingly awesome ORM SEO tools and tactics.
 
 
 
@@ -29,9 +29,6 @@ Online Reputation Management ORM Articles & Advice
 * [Online Reputation Management: A Guide for Social Media Marketers](https://www.socialmediaexaminer.com/online-reputation-management-guide-for-social-media-marketers/ "Online Reputation Management: A Guide for Social Media Marketers") - Online Reputation Management: A Guide for Social Media Marketers
 * [Online Reputation Repair: White Hat SEO Guide](https://www.serpwoo.com/blog/experts/online-reputation-repair/ "Online Reputation Repair: White Hat SEO Guide") - Online Reputation Repair: White Hat SEO Guide
 * [How To Do Monthly ORM Reporting](https://www.serpwoo.com/blog/experts/monthly-orm-reporting/ "How To Do Monthly ORM Reporting") - How To Do Monthly ORM Reporting
-
-
-
 
 
 
