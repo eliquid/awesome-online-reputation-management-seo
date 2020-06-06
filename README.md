@@ -9,6 +9,7 @@ Top Ranked Online Reputation Management ORM SEO Tools
 
 * [SERPWoo ORM SERP Tracker](https://www.serpwoo.com/ "Online Reputation Management Tracker & Competitive Niche Research") - Online Reputation Management SERP Tracker & Competitive Niche Research
 * [Review Push](https://www.reviewpush.com/ "Review Push") - We make online review management easy
+* [BrandChirps](https://brandchirps.com/ "Online Brand Monitoring Software") - The reliable, cost-efficient, and simple brand monitoring software you’ve been looking for
 * [Yotpo](https://www.yotpo.com/ "Leverage customer reviews and photos throughout the buyer journey to increase trust, social proof, and sales") - Leverage customer reviews and photos throughout the buyer journey to increase trust, social proof, and sales
 * [KnowEm](https://knowem.com "KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites") - KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites
 * [ReviewTrackers](https://www.reviewtrackers.com/ "Monitor online reviews. Measure the customer experience") - Monitor online reviews. Measure the customer experience
