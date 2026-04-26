@@ -16,6 +16,7 @@ Top Ranked Online Reputation Management ORM SEO Tools
 * [TalkWalker](https://www.talkwalker.com/social-media-analytics-search "The real-time FREE social media search engine") - The real-time FREE social media search engine
 * [Mention](https://mention.com/en/ "Mention") - Scour the web, social media, and more for powerful market insights.
 * [Google Alerts](https://www.google.com/alerts "Google Alerts") - Monitor the web for interesting new content
+* [Reputation Engine](https://github.com/sinabarimd/reputation-engine "Multi-site automated SEO publishing system") - Open-source multi-site automated publishing system for entity-first SEO using n8n, AI agents, and structured data. 10 autonomous workflows handle research, content generation, publishing, QA, SERP monitoring, and Web 2.0 syndication across 4 owned domains
 
 
 Online Reputation Management ORM Articles & Advice
