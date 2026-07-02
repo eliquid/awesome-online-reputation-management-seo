@@ -13,6 +13,7 @@ Top Ranked Online Reputation Management ORM SEO Tools
 * [Yotpo](https://www.yotpo.com/ "Leverage customer reviews and photos throughout the buyer journey to increase trust, social proof, and sales") - Leverage customer reviews and photos throughout the buyer journey to increase trust, social proof, and sales
 * [KnowEm](https://knowem.com "KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites") - KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites
 * [ReviewTrackers](https://www.reviewtrackers.com/ "Monitor online reviews. Measure the customer experience") - Monitor online reviews. Measure the customer experience
+* [ReputeMap](https://reputemap.com/ "AI Google reviews and Google Maps reputation management") - Get more Google reviews, reply with AI, and get alerted on negative reviews so local businesses rank higher in Google Maps.
 * [TalkWalker](https://www.talkwalker.com/social-media-analytics-search "The real-time FREE social media search engine") - The real-time FREE social media search engine
 * [Mention](https://mention.com/en/ "Mention") - Scour the web, social media, and more for powerful market insights.
 * [Google Alerts](https://www.google.com/alerts "Google Alerts") - Monitor the web for interesting new content
