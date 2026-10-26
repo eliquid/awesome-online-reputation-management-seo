@@ -58,4 +58,5 @@ Online Reputation Management ORM SEO Services
 *Consultants and agencies that can help you with ORM*
 
 * [Online Reputation Management](https://reputationmanagement.co/ "REPUTATION MANAGEMENT COMPANY") - Online Reputation Management Company
+* [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
